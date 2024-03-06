@@ -5,7 +5,6 @@
   </head>
   <body>
     <outline text="V2EX-最热主题" title="V2EX-最热主题" type="rss" xmlUrl="https://rsshub.app/v2ex/topics/hot" htmlUrl="https://www.v2ex.com/"/>
-    <outline text="Inoreader blog" title="Inoreader blog" type="rss" xmlUrl="https://www.inoreader.com/blog/feed" htmlUrl="https://www.inoreader.com/blog/"/>
     <outline text="张无知的知乎动态" title="张无知的知乎动态" type="rss" xmlUrl="http://deepbio.tpddns.cn:18097/zhihu/people/activities/zhangwuzhi" htmlUrl="https://www.zhihu.com/people/zhangwuzhi/activities"/>
     <outline text="知乎话题" title="知乎话题">
       <outline text="知乎话题 - 房价" title="知乎话题 - 房价" type="rss" xmlUrl="http://deepbio.tpddns.cn:18097/zhihu/topic/19554569/hot" htmlUrl="https://www.zhihu.com/topic/19554569"/>
